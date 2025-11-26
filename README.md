@@ -1,4 +1,4 @@
-# Agentic RAG Step by Step
+# Agentic RAG Step by Step (course by Damien Benveniste)
 
 Hands-on repository for the RAG (Retrieval-Augmented Generation) course. It bundles a FastAPI backend, a React + Vite frontend, and background workers that index GitHub repositories so the chatbot can answer repository-specific questions.
 
